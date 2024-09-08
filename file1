@@ -1,9 +1,7 @@
 adding 1st line
 line 2 added in local b1
-<<<<<<< HEAD
 line 3 added in local b1
 4th line added in local b1
-=======
 line added in remote b1
->>>>>>> 200ae8cf5cbf58f59df0916ddf1e60e2b00a70f6
+line 5 added by in remote by main
 
